@@ -1,0 +1,19 @@
+AP Pilates — site surpresa
+
+Arquivos:
+- index.html: página inicial institucional
+- declaracao.html: página da declaração
+- style.css: estilos das duas páginas
+- imagens/logo.svg: logo provisória de exemplo
+
+IMPORTANTE:
+Substitua imagens/logo.svg pela logo verdadeira do estúdio quando ela for enviada.
+Se a logo verdadeira for PNG, altere em index.html o caminho para:
+<img src="imagens/logo.png" alt="Logo do AP Pilates">
+
+Para testar:
+1. Extraia a pasta.
+2. Abra index.html no navegador.
+3. Clique em “Leia sobre nós”.
+
+Edite o texto de declaracao.html para personalizar a declaração.
